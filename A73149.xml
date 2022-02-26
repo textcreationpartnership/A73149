@@ -1,0 +1,430 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Soli gloria Deo. Certaine rare and nevv inventions for the manuring and improving of all sorts of ground Published by the author, for the helpe and instruction of all those that having any barraine land or other, and that are desirous to use the same unto their best profit and the publique good.</title>
+            <title>Certaine rare and new inventions for the manuring and improving of all sorts of ground</title>
+            <author>Shaw, John, inventor.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1636</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A73149</idno>
+            <idno type="STC">STC 22391.6</idno>
+            <idno type="STC">ESTC S123178</idno>
+            <idno type="EEBO-CITATION">99900481</idno>
+            <idno type="PROQUEST">99900481</idno>
+            <idno type="VID">133098</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A73149)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133098)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 2050:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Soli gloria Deo. Certaine rare and nevv inventions for the manuring and improving of all sorts of ground Published by the author, for the helpe and instruction of all those that having any barraine land or other, and that are desirous to use the same unto their best profit and the publique good.</title>
+                  <title>Certaine rare and new inventions for the manuring and improving of all sorts of ground</title>
+                  <author>Shaw, John, inventor.</author>
+               </titleStmt>
+               <extent>[6], 29, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by B[ernard]. A[lsop]. and T. Fawcet, and are to bee sold by H. Seyle, dwelling at the Tygres-head in Fleet-street,</publisher>
+                  <pubPlace>At London :</pubPlace>
+                  <date>1636.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"The epistle to the reader" signed: I.S., i.e. John Shaw.</note>
+                  <note>At foot of title: Cum privilegio.</note>
+                  <note>Printer's name from STC.</note>
+                  <note>Running title reads: New inventions for the improving of ground.</note>
+                  <note>Known only from a copy in a nonce collection with STC 22391.3, 22391.4, and 22391.5.</note>
+                  <note>reproduction of the original in the Henry E. Huntington Library and Art Gallery, San Marino, California.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Agriculture --  Early works to 1800.</term>
+               <term>Soil productivity --  Early works to 1800.</term>
+               <term>Soils --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:133098:1" rendition="simple:additions"/>
+               <pb facs="tcp:133098:1" rendition="simple:additions"/>
+               <pb facs="tcp:133098:2"/>
+               <pb facs="tcp:133098:2"/>
+               <hi>Soli gloria Deo.</hi> CERTAINE RARE AND NEVV INVENTIONS for the Manuring and Impro<g ref="char:EOLhyphen"/>ving of all ſorts of <hi>Ground.</hi>
+            </p>
+            <p>PVBLISHED BY THE AVTHOR, FOR the helpe and Inſtruction of all <hi>thoſe that having any barraine</hi> Land or other, and that are deſi<g ref="char:EOLhyphen"/>rous to uſe the ſame unto their beſt Profit and the pub<g ref="char:EOLhyphen"/>lique Good.</p>
+            <p>AT LONDON, Printed by <hi>B. A.</hi> and <hi>T. Fawcet,</hi> and are to bee ſold by H. SEYLE, dwelling at the <hi>Tygres-head</hi> in <hi>Fleet-ſtreet.</hi> 1636.</p>
+            <p>CUM PRIVILEGIO.</p>
+            <pb facs="tcp:133098:3"/>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:133098:3"/>
+            <head>THE EPISTLE TO THE READER.</head>
+            <p>
+               <seg rend="decorInit">C</seg>Ourteous Reader, I have here layd open unto thy view certaine Inſtructions in points of <hi>Husbandry</hi> that as yet hath not beene Practiſed by any, ſuch as are in uſe already I will not undertake to teach nor yet to treat of; Although I thinke it were not a labour ſuperfluous, by reaſon that <hi>Husbandry</hi> is not a needleſſe thing, but a principall ſuppor<g ref="char:EOLhyphen"/>ter and maine Piller both in Church and Common-wealth; yea it is that, that our GOD hath ordayned to be the ſuſten<g ref="char:EOLhyphen"/>tation of our naturall Lives.</p>
+            <p>The proſperity of this Science preſageth Plenty, it preſa<g ref="char:EOLhyphen"/>geth Health, it preſageth Wealth, it preſageth Life, and ma<g ref="char:EOLhyphen"/>keth glad the Heart of man; but the contrary preſageth Pe<g ref="char:EOLhyphen"/>nurie, Famine, and woe: For, if this Science thriveth, the whole Land thriveth, but if it fayleth, who is it that feeleth not ſome ſmart thereof; and therefore, if all or the greateſt part in ſome kind or other partake of the Calamities that en<g ref="char:EOLhyphen"/>ſueth through the unskilfulneſſe of the <hi>Husband-man,</hi> I hope there is none eyther ſo fooliſh, or wicked, as to be offended at any that ſhall endeavour in a lawfull ſort to diſcover any thing, that may bee helpfull to the <hi>Husband-man,</hi> and that may further his skill in <hi>Husbandry.</hi>
+            </p>
+            <p>The <hi>Husband-man</hi> perhaps may thinke, it onely belongs unto him to diſcourſe of <hi>Husbandry;</hi> but I muſt tell him, and all others of the like minde, That it is the duty of every one (ſo farre as they are bound to procure the Publique good) to produce ſome thing or other, if they can poſſibly, that may further the good of <hi>Husbandry:</hi> Indeed, looke how much the Soule in excellency exceeds the Body, &amp; Celeſtiall things exceeds Terreſtriall; ſo farre doth the ſcience of <hi>Divinitie</hi>
+               <pb facs="tcp:133098:4"/>
+exceed all other Sciences; but excepting the Science of <hi>Di<g ref="char:EOLhyphen"/>vinity,</hi> no Science is of that antiquity, worth, and excellency (in my judgement) as is this Science of <hi>Husbandry.</hi> And al<g ref="char:EOLhyphen"/>though many other ſciences are of more eſteem in the world then this, yet innumerable are there that have paſſed their whole lives, ſome others the greateſt part of their lives with<g ref="char:EOLhyphen"/>out the helpe of divers of them; yet never any paſſed through any one part of their lives without being beholding unto this Science; and therefore I cannot but marvaile to thinke how many great wits have beene imployed to illuſtrate, and ſet forth other Sciences, and how few have bent their minds to perfect this Science, when as there is both matter ſuper<g ref="char:EOLhyphen"/>abundant, and reaſon ſufficient to induce men thereunto.</p>
+            <p>In <hi>Martiall</hi> affaires the skill and direction of ſome great man, as of the Generall oftentimes, doth profit more in the battaile, then the skill and courage of the Souldiers; And the preſcription of the <hi>Phyſitian</hi> is a direction unto the <hi>Apothe<g ref="char:EOLhyphen"/>cary:</hi> And the skill of the <hi>Pilate</hi> is of more worth for the preſervation of the Ship, then the toyle and labour of the <hi>Mariner:</hi> And ſhall we thinke it would not profit <hi>Husban<g ref="char:EOLhyphen"/>dry,</hi> if ſuch as are of a deepe judgment ſhould but bend their mindes and frame their ſtudies, for the diſcovery of ſuch points of <hi>Husbandry,</hi> as may ſerve for uſe and direction unto the <hi>Husband-man,</hi> whom the continuall toyle and daily care they undergoe will never ſuffer them to become ſo truly in<g ref="char:EOLhyphen"/>genious, as to diſcry in this Science any more then what they may diſcerne with their bodily eyes, nor yet all that. Some may thinke perhaps meanely of a ſubject of this nature; and yet I doubt not, but that moderate men may be exerciſed in ſuch Points of <hi>Husbandry</hi> as I ſhall here diſcover, with as great delight and profit, as they ſhall deſire:</p>
+            <p>I ſhall not at this Impreſſion, publiſh all the skill I have attain'd unto in this Science, neyther ſhall I deſcribe all the ſeverall <hi>Inſtruments</hi> and <hi>Inventions</hi> to be uſed in thoſe points of <hi>Husbandry,</hi> as I ſhall here now treat of, becauſe I ſhall want words that may expreſſe the particulars of the ſame, for new <hi>Inventions</hi> muſt have new nominations, both of the things
+<pb facs="tcp:133098:4"/>
+themſelves, and alſo of the particulars thereof; And when both the thing it ſelfe the Names, and the Particulars, are all unknowne unto the <hi>Reader,</hi> the deſcription thereof would but puzzle him, and ſo tire his affection, before he would at<g ref="char:EOLhyphen"/>taine unto the true knowledge and uſe of the ſame; therefore at the end of this little <hi>Treatiſe,</hi> ſhall all ſuch as are deſirous to receive further inſtructions concerning the ſame, be direc<g ref="char:EOLhyphen"/>ted where they may both ſee the ſeverall <hi>Engines</hi> and <hi>Inven<g ref="char:EOLhyphen"/>tions,</hi> &amp; alſo receive further information therin if they pleaſe.</p>
+            <p>I will not ſtand much to intreat for acceptation, for I know men will accept of it according as they find it, onely this I muſt ſay, I hope there is none of ſo evill a nature, as to take it in evill part; and if that I find it to be well taken, I ſhall with the greater alacrity diſcover other <hi>Points</hi> of the like nature more freely and fully hereafter, and unto all thoſe that ſhall find or diſcerne any good by any thing herein declared, my deſire is, that they would give the Lord the glory thereof, whom I take to bee the revealer of all true and lawfull <hi>My<g ref="char:EOLhyphen"/>ſteries;</hi> and therefore, the glory of the ſame to bee due unto him onely, if any thing herein ſeeme imperfect, that attri<g ref="char:EOLhyphen"/>bute to my inſufficiencie.</p>
+            <p>As for the Subject, it is of ſuch a nature that it will not ad<g ref="char:EOLhyphen"/>mit of an high ſtile, nor Rhetoricall phraſes, neither is it ne<g ref="char:EOLhyphen"/>ceſſary in ſuch a ſubject, to ſpeake above the capacity of <hi>Huſ<g ref="char:EOLhyphen"/>band-men,</hi> who moſt commonly are illiterate; therefore in this worke, I have rather endeavoured plainly and briefly to deliver the ſeverall <hi>Directions</hi> and <hi>Inſtructions</hi> herein contai<g ref="char:EOLhyphen"/>ned, then Amply or Elegantly to write of the ſame: And howſoever I may be cenſured by any; yet my comfort is, the Lord knoweth that in undertaking this taske, my ayme is, and ever ſhall be the glory of God, and the publique good of my native Countrey, in which minde, I hope ever to ſubſiſt and reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Alwayes ſtudying and endea<g ref="char:EOLhyphen"/>vouring the ſame:</hi> I. S.</signed>
+            </closer>
+         </div>
+         <div type="table_of_contents">
+            <pb facs="tcp:133098:5"/>
+            <head>The Contents of this little Treatiſe.</head>
+            <list>
+               <item>THe firſt <hi>Chapter.</hi> Sheweth certaine Cauſes of Barren<g ref="char:EOLhyphen"/>neſſe.</item>
+               <item>The II. Teacheth the vſe of a new Invention, called a Seed-barrow.</item>
+               <item>The III. Contayneth Inſtructions concerning the Manuring-Plow.</item>
+               <item>The IIII. Contayneth Inſtructions concerning the Manuring-Waggen.</item>
+               <item>The V. Sheweth how to prepare your Ground for the Manu<g ref="char:EOLhyphen"/>ring Waggen, or the Seed-barrow.</item>
+               <item>The VI. Sheweth how to prepare Dung, Chalke, Lime, Marle, or any other manure, to vſe in your Manuring-Plow, ma<g ref="char:EOLhyphen"/>nuring-Waggen, or in your Seed-barrow.</item>
+               <item>The VII. Declareth the ſeverall Benefits ariſing through the vſe of the Manuring-Plow, the Manuring-Waggen, or of the Seed-barrow.</item>
+               <item>The VIII. Containeth certaine Notes and Obſervations in Sowing.</item>
+               <item>The IX. Teacheth the vſe of the Manuring-Barrow.</item>
+               <item>The X. Sheweth the ſeverall benefits ariſing through the vſe of the Manuring-Barrow.</item>
+               <item>The XI. Sheweth the vſe of the Manuring-Stone, Corroding-Harrowes, or Corroding-Rakes.</item>
+               <item>The XII. Teacheth the uſe of the Horſe-Rake.</item>
+               <item>The XIII. Teacheth how to find out the nature of Grounds.</item>
+               <item>The XIIII. Sheweth how to produce good ſtore of Manure, and Dung.</item>
+               <item>The XV. Sheweth how to Manure your ground without Dung.</item>
+               <item>The XVI. Sheweth how to deſtroy Heath, Brakes, or any other Shrubs.</item>
+               <item>The XVII. Concerneth the making of ſome certaine Barren ground, although not worth yearely, 12.<hi>
+                     <hi rend="sup">d</hi>.</hi> the Acre, to be<g ref="char:EOLhyphen"/>come worth 30. or 40. <hi>s.</hi> an Acre yearely.</item>
+            </list>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:133098:5"/>
+            <head>Certaine Rare and new Inventions, for the Manuring and Improving of Ground of all ſorts.</head>
+            <div n="1" type="part">
+               <head>PART. 1.</head>
+               <div n="1" type="chapter">
+                  <head>CHAP. I. <hi>Certaine cauſes of Barrenneſſe.</hi>
+                  </head>
+                  <p>
+                     <seg rend="decorInit">I</seg>F I ſhould treat of all the cauſes of <hi>Barrenneſſe,</hi> my diſcourſe would bee too tedious for ſo ſhort a Treatiſe as now I in<g ref="char:EOLhyphen"/>tend; therefore I will omit to ſpeake of ſome cauſes, untill I ſhall more Copiouſly write of this ſubject, and yet being it is the property of a good Phyſi<g ref="char:EOLhyphen"/>tian to diſcover firſt the Malady before he preſcribe the Remedy, ſo will I firſt ſhew ſome of the cauſes of <hi>Ster<g ref="char:EOLhyphen"/>rilitie</hi> and <hi>Barrenneſſe,</hi> that doe moſt concerne us, and that therefore wee have moſt reaſon to take notice of, before I diſcover thoſe ſeverall points, and directions in <hi>Husbandry,</hi> that hereafter I ſhall lay open.</p>
+                  <p>
+                     <pb n="2" facs="tcp:133098:6"/>
+The firſt Cauſe the which I ſhall but now name, and indeed which is the maine cauſe, is the curſe of God upon the Earth for Sinne: For the other, they are but ſubordinate unto this; As the Propheticall King decla<g ref="char:EOLhyphen"/>reth; <hi>The Lord maketh a Fruitfull Land barren, for the wickedneſſe of them that dwell therein;</hi> and this wee may obſerve to be effected daily, as it were by divers and ſe<g ref="char:EOLhyphen"/>verall meanes, for ſometimes by exceſſive ſhowers the fatneſſe of the Earth is waſhed away, and ſometimes the pureſt of the Earth by boyſterous Windes is driven a<g ref="char:EOLhyphen"/>way, whereby <hi>Barrenneſſe</hi> by degrees doth enſue daily, as daily experience may teſtifie, if we doe but conſider how Hils and high grounds that lye moſt ſubject to the winde and weather, are ever of all other the moſt <hi>Bar<g ref="char:EOLhyphen"/>ren,</hi> and although by theſe and other meanes, the Lord doth produce <hi>Barrenneſſe,</hi> yet he hath ſo ordained, that in the ſweat of our browes wee may get our Bread out of the ſame; and therfore we are to endeavour, as much as lyeth in us, both to pacifie the wrath of God by our repentance and new obedience through our Lord and Saviour <hi>Ieſus Christ,</hi> and alſo to uſe the beſt meanes we can attaine unto to procure the Fertilitie of the ſame; therefore let no man thinke or once imagine, that the more skill and meanes hee doth attaine unto, that the leſſe need hee hath of Gods helpe, and ſo become the leſſe religious, for the more skill and meanes we attaine unto, the more in duty doe wee become bound unto GOD for imparting his bleſſings unto us, and alſo the more our endeavours are, the greater will our dammage be, if the bleſſing of God be not upon our endeavours, and therefore the more that our endeavours are, and the
+<pb n="3" facs="tcp:133098:6"/>
+more our skill and knowledge is, the more carefull ought we to be in the ſervice of God, that ſo the Lord may be mov<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d thereby ſtill to enlarge his bleſſings and favours utno us; For our aptneſſe to forget God when wee enjoy his bleſſings in great plenty, cauſeth him to deprive us of thoſe bleſſings oftentim<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s; there<g ref="char:EOLhyphen"/>fore let every one that would be a profitable member in the Church and Common-wealth, be both dutifull in the ſervice of God, and diligent in the labours of his Calling; for although the Lord hath as it were left it in the power of man to Till and Manure the ground, and to make it fertile, yet wee cannot be ignorant how that there is a ſoveraignty belongs to God, and that many wayes the Lord both can and doth oftentimes deſtroy the Fruits of the Earth; as ſometimes by Bla<g ref="char:EOLhyphen"/>ſtings, ſometimes by Mildeawes, ſometimes by Cater<g ref="char:EOLhyphen"/>pillers, ſometimes by one Creature, ſometimes by ano<g ref="char:EOLhyphen"/>ther, and ſometimes by unſeaſonable weather, and therefore let our skill and induſtry bee never ſo great, yet let vs remember ever that we ſtand in need of Gods bleſſing: and that if wee are not carefull ſervants unto the Lord, we are neither faithfull ſervants nor yet pro<g ref="char:EOLhyphen"/>fitable ſubjects, either unto our King or Country.</p>
+                  <p>The other cauſes of <hi>Barrenneſſe,</hi> I ſhall diſcover at another time, and in the meane time I ſhall humbly crave every one in their ſeverall callings, to remove theſe cauſes already mentioned; firſt by their true re<g ref="char:EOLhyphen"/>pentance and new obedience, and ſecundarily by their diligent and lawfull endeavours, according to thoſe ſe<g ref="char:EOLhyphen"/>verall directions, as hereafter in order ſhall follow.</p>
+               </div>
+               <div n="2" type="chapter">
+                  <pb n="4" facs="tcp:133098:7"/>
+                  <head>CHAP. II. <hi>Inſtructions concerning the vſe of a new Invention, called a Seed-barrow.</hi>
+                  </head>
+                  <p>THE firſt things that I will ſpeake of, ſhall be of thoſe that are of the moſt generall uſe, and that firſt of all of the <hi>Seed-barrow,</hi> an inventi<g ref="char:EOLhyphen"/>on neceſſary for every one that Soweth any kind of Graine, and is to bee uſed in manner following; when you are ready to ſow, you muſt bring your Seed, and alſo your Manuring-powder made of fine mellow dung, in ſacks or other veſſels, as you pleaſe, into your Field, and place halfe your powder and halfe your ſeed at the one ſide of your Field where you begin to ſow, and then place the other halfe of your Seed and pow<g ref="char:EOLhyphen"/>der at the other ſide of your Field, that ſo you may have your Seed and powder in a readineſſe at each lands end to trimme your <hi>Barrow</hi> therewith, for it is not good to overcharge your <hi>Barrow</hi> at a time with your Seed or powder; and therefore at every Lands end you ſhould put about ſuch a quantity of Seed and powder into your <hi>Barrow</hi> as will be ſpent in going once from the one ſide or end of your Field unto the other, and not more, becauſe at every lands end, you may ſupply the ſame with caſe, you alſo muſt uſe more Powder then Seed; and therefore, you muſt provide five or 6. buſhels of manuring Powder or more, for every one buſhell of Seed you ſow. For the more liberall you are of your powder, the more bountifully ſhall you reape; there<g ref="char:EOLhyphen"/>fore having two or three Funnels in your <hi>Barrow,</hi> the
+<pb n="5" facs="tcp:133098:7"/>
+firſt and laſt alſo being larger then the middle Funnell which is your Seed-funnell, you may fill the firſt and the laſt Funnell wi<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h your powder, and alſo you may mingle ſome powder with your ſeed, and thus ſowing your ground with your <hi>Barrow,</hi> in this manner; your ſeed which doth become the roote of the Corne will be ſo inwrapped in the dung, as that it will grow and fructifie aboundantly.</p>
+               </div>
+               <div n="3" type="chapter">
+                  <head>CHAP. III. <hi>Concerning the vſe of the Manuring-Plow.</hi>
+                  </head>
+                  <p>THE <hi>Manuring-Plow</hi> may be ſo called; becauſe it will excellently well Manure any ground, as you Plow and ſow the ſame, and ſo Improve it very much: You are to prepare, and bring your ſeed and Manuring-powder into your Field when you would ſow the ſame with this Invention, according as is preſcribed in the Inſtructions for the <hi>Seed-Barrow,</hi> and ſo you muſt place halfe your Seed and powder at each lands end, as alſo is before expreſſed. This In<g ref="char:EOLhyphen"/>vention may bee uſed in the Sowing of any manner of ground, but principally in ſowing of ſuch ground, and of ſuch graine as you vſe to ſow vnder Furrow.</p>
+                  <p>Alſo, it is beſt to Sow ſome kinde of ground that is very ſtony and barraine, that will not yeeld the Huſ<g ref="char:EOLhyphen"/>bandman ſo plentifull an Increaſe, as may recompence him his charge and induſtry without plenty of ſome kinde of manure or other: For this Invention (where the Husbandman may get any Dung, Marle, fat earth,
+<pb n="6" facs="tcp:133098:8"/>
+or any other kind of good ſoyle) will apply ſuch plen<g ref="char:EOLhyphen"/>ty of the Manure unto the ſeed at the Sowing thereof as the Husband man ſhall deſire, and ſo it will cauſe it to multiply, and fructifie aboundantly, and alſo yeare<g ref="char:EOLhyphen"/>ly Improve the ſayd ground very much, if it bee thus yeerely manured and ſowen.</p>
+                  <p>The vſe of this Invention will neither bee chargea<g ref="char:EOLhyphen"/>ble, nor laborious, nor yet the Improving of Land with the ſame, becauſe the Land every yeare will yeeld his Crop, and it will Plow, Manure, and Sow your ground with the ſame ſpeed, and facility as any other com<g ref="char:EOLhyphen"/>mon Plow doth, that doth (but onely breake up the ground.</p>
+                  <p>And as there bee ſeverall faſhions of the old com<g ref="char:EOLhyphen"/>mon Plowes, ſo likewiſe may there be made ſeverall faſhions of theſe <hi>Manuring-Plowes,</hi> according to the ſe<g ref="char:EOLhyphen"/>verall natures of Soyle, and to the ſeverall Cuſtomes of Countries: Alſo in ſtiffe and hard grounds it will bee neceſſary, that the Husband-man doe Harrow his ground over after that it is ſowen with the <hi>Manuring-Plow,</hi> if hee ſee cauſe.</p>
+               </div>
+               <div n="4" type="chapter">
+                  <head>CHAP. IIII. <hi>Concerning the vſe of the Manuring-Waggen.</hi>
+                  </head>
+                  <p>THE <hi>Manuring-Waggen</hi> is ſo called, becauſe it cannot well be vſed without wheeles or ſome<g ref="char:EOLhyphen"/>what to beare up the ſame, by reaſon the Cat<g ref="char:EOLhyphen"/>tle
+<pb n="7" facs="tcp:133098:8"/>
+otherwiſe could not well draw it. It being indeed to bee well loaded with Dung or ſuch other Manure that is to be got, becauſe this Invention is to bee vſed in ſowing of <hi>Barren</hi> ground that of it ſelfe will beare nothing.</p>
+                  <p>The ſame kindes of Manure is to be uſed in this, as is uſed in the <hi>Seed-Barrow,</hi> but much more in this then in the other; therefore the holes in the manuring Funnels of your <hi>Manuring-Waggen</hi> muſt be of a wider bore then thoſe of the <hi>Seed-Barrow,</hi> but the holes of the Seed-funnels much of one ſize.</p>
+                  <p>This Invention is moſt fitteſt to be drawne by Oxen, becauſe Horſes will draw it too ſwiftly, and the <hi>Barrow</hi> is to bee placed ſo that the bottome thereof may goe as deepe in the earth, as it is poſſible for the Cattle to draw the ſame; for whole loades of ſome kind of Ma<g ref="char:EOLhyphen"/>nuring powder or other is to be put into the Manuring Funnels thereof at a time, and then this Invention in ſhort time will Improve any barraine ground, and make the ſame to become rich, and fertile.</p>
+               </div>
+               <div n="5" type="chapter">
+                  <head>CHAP. V. <hi>Inſtructions ſhewing how to prepare your Ground for the Seed-barrow, or Manuring-Waggen.</hi>
+                  </head>
+                  <p>YOu muſt prepare your ground with your Plow cutting your Furrowes very ſlender and deepe, and breake the clods with an heavie Oxe-har<g ref="char:EOLhyphen"/>row, or Horſe-rakes; and alſo, if your ground bee
+<pb n="8" facs="tcp:133098:9"/>
+of a hard and ſtiffe mould, that in dry weather will not diſſolve, and breake, you muſt moyſten the ſame through ſuch meanes as hereafter I ſhall preſcribe, and then breake the ſame with an <hi>Oxe-harrow,</hi> as (common<g ref="char:EOLhyphen"/>ly is vſed by moſt Husbandmen,) or by an <hi>Horſe-rake:</hi> alſo you may leave a little ſpace at each end of your Cloſe vnplowed, vntill the laſt; becauſe of turning and trimming your <hi>Seed-barrow, Manuring Plow,</hi> or <hi>Manuring-Waggen</hi> at every Lands end, and alſo becauſe of removing your Seed and your manuring powder a<g ref="char:EOLhyphen"/>long at the land ends, as you ſow: and then at the laſt you may plow vp your land ends alſo, and ſow the ſame with your <hi>Seed-Barrow,</hi> or <hi>Manuring-Waggen,</hi> as you did the reſt.</p>
+               </div>
+               <div n="6" type="chapter">
+                  <head>CHAP. VI. <hi>How to prepare fine Dung, Chalke, Lime, or Marle, for to vſe in your Seed-Barrow, Manuring-Plow, or in the Manuring-Waggen.</hi>
+                  </head>
+                  <p>YOu muſt make choiſe of the fineſt mellow Dung you have, and when the weather is dry, you muſt houſe it, and ſo keepe it dry againſt Seed-time in ſome out houſe or place, where no wet doth come: and when your occaſion ſerves to vſe it, you muſt beat or ſtampe it ſmall to powder, and ſift it over with ſuch a courſe ſiffe as Gardners doe uſe, or elſe caſt it up againſt ſuch a cleanſer as Bricklayers and others uſe, when they clenſe their Rubbiſn and gravell, thereby to gather ſand out of the ſame, that ſo you may
+<pb n="9" facs="tcp:133098:9"/>
+free it from all clods, or rather refuſe-ſtuffe as would ſtop the holes in the Funnels of your <hi>Seed-Barrow,</hi> and the clods or other refuſe ſtuffe ſo ſeperated out of your powder, will ſerve to uſe amongſt your other dung, in your <hi>Manuring-Barrow.</hi>
+                  </p>
+                  <p>Marle, Chalke, or any other fat ſoyle would be hou<g ref="char:EOLhyphen"/>ſed in dry weather, and in like manner muſt bee beaten or ſtamped ſmall, and ſo ſifted as the other, but your lime may be ſlak't &amp; ſifted at any time when you have occaſion to uſe it, or if you ſhould find it to agree beſt with your ground unſlackt, then you may ſtampe it to powder, as you would doe the other and ſo uſe it, and where Dung, Marle, or ſoyle is ſcarce, there in ſome Lanes or high-wayes in the Summer-time, may a cer<g ref="char:EOLhyphen"/>taine duſt of a darke colour be gathered that will bee very neceſſary and uſefull for ſome kind of Ground, and alſo ſome kind of graine.</p>
+               </div>
+               <div n="7" type="chapter">
+                  <head>CHAP. VII. <hi>The ſeverall Benefits and Remedies ariſing through the vſe of the Seed-Barrow, Manuring-Plow, and the Manuring-Waggen.</hi>
+                  </head>
+                  <p>THE remedies and benefits through the uſe of the <hi>Seed-Barrow, Manuring-Plow,</hi> and the <hi>Manu<g ref="char:EOLhyphen"/>ring-Waggen,</hi> are divers; As firſt I may truly ſay three ſeverall workes, yea Foure, are done at one inſtant by them, for they doe in a manner Plow, Ma<g ref="char:EOLhyphen"/>nure the ground, Sow the ground, and Harrow the ground, all at one time, and at one act.</p>
+                  <p>
+                     <pb n="10" facs="tcp:133098:10"/>
+Secondly, they doe diſperſe the Seed very equally alike throughout all your Cloaſe, for when men ſow with their hands they cannot ſo equally ſcatter their Seed alike with their Hand, as the <hi>Seed-Barrow, Ma<g ref="char:EOLhyphen"/>nuring Plow,</hi> and <hi>Manuring-Waggen</hi> will diſperſe it.</p>
+                  <p>Thirdly, hereby will your Dung be ſo really apply<g ref="char:EOLhyphen"/>ed vnto the Seed, that it will cheriſh your Seed, and cauſe it to multiply and fructifie aboundantly.</p>
+                  <p>Fourthly, hereby alſo will your Dung, Marle, or o<g ref="char:EOLhyphen"/>ther Soyle, be ſo intermingled with the Earth, as that no ſuddaine ſhewers or boyſterous ſtormes, may waſh or drive away any of the Fatneſſe of the ſame.</p>
+                  <p>Fiftly, your Seeds-man may hereby eyther ſow his Corne deepe or ſhallow as he pleaſeth, or as he findeth it to bee moſt for his profit and advantage.</p>
+                  <p>Sixthly, your <hi>Seed-barrow, Manuring-Plow,</hi> and <hi>Ma<g ref="char:EOLhyphen"/>nuring-Waggen,</hi> will ſo immediately cover the Seed at the ſowing thereof, as that no kind of Fowle may de<g ref="char:EOLhyphen"/>voure any of the ſame; For alwayes moſt commonly both Pigeons, and other kind of Birds give their atten<g ref="char:EOLhyphen"/>dance upon the Husband-man, and devoureth ſome of the Seed before it can bee covered by the Harrow, or under the Furrow, if they ſow under furrow; and al<g ref="char:EOLhyphen"/>though ſome may thinke it is but a little that they de<g ref="char:EOLhyphen"/>voure, yet the Increaſe that would proceed from that little, may be ſo much, as would helpe to recompence the Husband-man for his charges and induſtry.</p>
+                  <p>Seventhly, hereby may the Husband-man manure e<g ref="char:EOLhyphen"/>very Acre of ground that hee ſoweth with any kind of Graine, either with Dung, Marle, or ſome other fat mould or other, and ſo bring his ground into heart, and
+<pb n="11" facs="tcp:133098:10"/>
+improve and inrich his ground by Sowing it, rather then impoveriſh or diſ-inable the ſame.</p>
+                  <p>Eightly, by the <hi>Manuring-Plew,</hi> and the <hi>Seed-Barrow,</hi> may you plant the Corne ſuch a depth into the Earth, ſo as neither the great winter Froſts, nor the Summer drougth, ſhall ſo eaſily nippe or kill the roote of the Corne.</p>
+               </div>
+               <div n="8" type="chapter">
+                  <head>CHAP. VIII. <hi>Notes and Obſervations in Sowing.</hi>
+                  </head>
+                  <p>THere are divers ſeverall Obſervations neceſſa<g ref="char:EOLhyphen"/>ry to be learned, and underſtood of every Huſ<g ref="char:EOLhyphen"/>bandman, or other, that hath any inclination unto Husbandry, as to know how much Seed hee muſt ſow upon an Acre, or how much ground his <hi>Seed-Bar<g ref="char:EOLhyphen"/>row</hi> doth ſow at once or twice tracing from one end of the Field unto the other; Now therefore, if you know not the length of your Field, you may meaſure the length thereof, eyther by the Pole or Yard, and then put ſuch a proportion of Seed, and of Powder into your <hi>Seed-barrow,</hi> as you thinke will bee ſpent in one courſe from the one ſide or end of your Field unto the other.</p>
+                  <p>Note therefore, that a Yard in bredth, and 1210. yards in length, maketh a quarter of an Acre, and 2420. yards in length, and a yard in bredth, maketh halfe an Acre; and 4840. yards in length, and a yard in bredth maketh an Acre, according to the Statute.</p>
+                  <p>Or note, that 880. Poles in length, and a yard in
+<pb n="12" facs="tcp:133098:11"/>
+bredth maketh an Acre, and 440. Poles in length, and a yard in bredth, maketh halfe an Acre; and 220. Poles in length, and a yard in bredth, maketh a quarter of an Acre; from whence you may note, that your <hi>Seed-Bar<g ref="char:EOLhyphen"/>row</hi> being Three foote broad doth ſow an Acre being drawne the length of 880. Poles, or being drawne the length of 440. Poles, it ſoweth halfe an Acre, or being drawne but 220. Poles in length, it ſoweth a quarter of an Acre, and looke how many times ſo much is ſpent, as doth ſow 880. Poles in length, ſo many Acres is conteyned in your Cloſe; For note, that if halfe a bu<g ref="char:EOLhyphen"/>ſhell of Seed, is ſpent in ſowing 880. Poles in length; then if you ſpend 10. buſhels of ſeed in your Cloſe, your Cloſe is about 20. Acres, if you ſpend 15. buſhels, your Cloſe is then about 30 Acres, and ſo in like man<g ref="char:EOLhyphen"/>ner, if you ſpend leſſ then halfe a buſhell in ſowing of an Acre, then you ſhall ſpend leſſe then 10. Buſhels in ſowing of 20. Acres, and ſo of the reſt.</p>
+                  <p>Note alſo, you ſhould carry a little ſpare Seed in a bagge upon your <hi>Barrow, Manuring-Plow,</hi> or <hi>Manuring Waggen,</hi> along with you, and ſo repleniſh your Seed-funnell therewith, if your Seed ſhould be almoſt ſpent before you come at your Lands end, and then at the lands end you ſhould repleniſh your <hi>Barrow, Manuring Plow,</hi> or <hi>Waggen</hi> againe both with Powder and Seed, and alſo if it need put ſome ſpare Seed in your bagge, becauſe you ſhould bee ſure not to draw your <hi>Manu<g ref="char:EOLhyphen"/>ring-Plow, Waggen,</hi> or <hi>Seed-Barrow,</hi> wh<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n your Seed-funnell is almoſt empty; Now if you finde that the Barrow doth ſpend the ſeed too faſt or too ſlow, there be two wayes to rem<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>dy it; For either you may mixe
+<pb n="13" facs="tcp:133098:11"/>
+a little more or leſſe Powder amongſt your Seed, or you may give freer or harder paſſage to your Seed-funnels, as you ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e cauſe; and ſo alſo may you order the holes of the other Funnels, that are for your Pow<g ref="char:EOLhyphen"/>der.</p>
+                  <p>Now if your ground conſiſt of ſo fat a ſoyle as that it needeth no Dung, you may then trimme your Seed-funnell onely with Seed, and let the other funnels re<g ref="char:EOLhyphen"/>maine emptie, or otherwiſe you may make uſe of a <hi>barrow</hi> that hath but one funnell.</p>
+                  <p>Note alſo, that if you have not Dung ſufficient to ſow all your graine therewith, you may uſe a fat Sand when you ſow Rye, and with your ſeed-Wheat you may uſe either Lime or Chalke beaten, or ſlak't to powder, and with Peaſe, Oates, and other graine, you may uſe Marle, or other of the beſt or fatteſt Earth you can get.</p>
+                  <p>Alſo note, that you may ſow your Summer corne, as Peaſe, Oates, Barly and ſuch other, three Weeks or a Moneth ſooner then hath been uſuall, or is accuſtomed, and that for two reaſons. For firſt, you need not feare that the late froſts ſhould hurt or prejudice your corne, when as the roote is planted more deeply in the earth then it hath beene uſuall. Secondly, becauſe the more deeply that your Corne is rooted in the ground, as it is the better for your Corne, ſo will it require a little more time for the pringing up, &amp; growing of the ſame.</p>
+                  <p>Note alſo, in ſome kind of Ground you muſt ſow a greater quantity of Seed vpon an Acre, then you need for to ſow vpon other ground; for the richer the ſoyle is, the leſſe quantity of Seed you may ſow, becauſe of the Increaſe that it will yeeld, and therefore one may
+<pb n="14" facs="tcp:133098:12"/>
+ſow a leſſe quantity of Seed in a fertile ſoyle then in a barren, leſt your fertile ſoyle bring forth your Corne too ranke; Yet as I would not adviſe any one to be la<g ref="char:EOLhyphen"/>viſh of his Seed, ſo I would counſell them not to be too ſparing, for he that ſoweth bountifully, ſhall alſo reape bountifully.</p>
+                  <p>Alſo note, that Horſes are the fitteſt Cattle for to draw your <hi>Seed Barrow</hi> up &amp; downe your Cloſe when you ſow it, becauſe it ſhould bee drawne with a little ſpeed, neyther ſhould they bee placed one before the other, but one by the ſide of another, as in a Coach, that ſo the Earth may lye equally looſe alike before the Barrow.</p>
+               </div>
+               <div n="9" type="chapter">
+                  <head>CHAP. IX. <hi>Inſtructions teaching the vſe of the Manuring-Barrow.</hi>
+                  </head>
+                  <p>WHen you intend to manure a Field, if it be ground that you intend to make Arable, it is expedient, that firſt you breake up the ſame with your Plow, and then bring your Dung, Marle, or other ſoyle, and lay it in great heapes all a<g ref="char:EOLhyphen"/>long at the one ſide of your Field, and then bring your <hi>Manuring barrow,</hi> and fill the ſame at one of your heapes, and then draw it up and downe from the one ſide of your Field unto the other with your Cattle, all againſt that heape of Dung where you loaded your Barrow untill all that heape be ſpent, and then fill your barrow at the next heape, and ſo draw it in like manner
+<pb n="15" facs="tcp:133098:12"/>
+from one ſide of the Field unto the other all againſt that heape, and ſo in like manner you muſt ſpend one heape after another, untill all bee ſpent in your Cloſe, this kind of Manuring of ground may bee uſed at any time of the yeare.</p>
+                  <p>Otherwiſe to gaine time, and ſpare labour, you ſhould have two or three <hi>Manuring-Barrowes,</hi> and have a Carre with low wheeles made without ſides and well borded in the bottome, whereon you may place your <hi>Manu<g ref="char:EOLhyphen"/>ring barrow,</hi> and ſo load it as you doe your Dung-carts, where, and when your occaſions ſerve, and ſo draw it unto your Cloſe that you would Manure, and when you are in your Cloſe, take your Cattle out from your Carre, and ſet them to your Barrow, and then draw your barrow off from the carre, and ſo up and downe that place of your Field that you would manure, and thus while ſome of your cattle are drawing of your Barrow to and fro in your Field, others may bee exer<g ref="char:EOLhyphen"/>ciſed in fetching of another barrow full of Dung upon your carre unto your Field.</p>
+                  <p>You may manure your arrable ground either in dry or wet weather, and when your ground is either dry or wet, but you may beſt manure your Paſture ground in the Winter time when it is wet, or in the Summer when it is dry, after the ſame hath beene eaten bare, leaſt you ſhould hinder the growth of your Graſſe, provided al<g ref="char:EOLhyphen"/>wayes, that you water it well ſo ſoone as it hath beene manured, if the ſeaſon be dry. You cannot beſtow too much time, or labour in manuring your arrable ground but you muſt not manure your Paſture ground too much at a time, leſt you ſhould deſtroy the graſſe, or too
+<pb n="16" facs="tcp:133098:13"/>
+much hinder the growth of the ſame, therefore you may Manure it but a little at a time, and the oftner.</p>
+                  <p>Alſo, the manure whether it be Dung, Marle, or any other fat mould, that you vſe in your <hi>Manuring-barrow,</hi> muſt alwayes bee good and moyſt when you vſe it, ei<g ref="char:EOLhyphen"/>ther vpon Arrable paſture or Meadow ground.</p>
+                  <p>If you thinke it a leſſe labour to ſpread your Dung after the old manner, and cannot ſtand long about it in manuring it with your <hi>Barrow,</hi> then you may ſpread ſome of your Dung, Marle, or ſoyle, all along in rowes, and then fill your Barrow with ſome of the other that you have reſerved, and let your Cattle draw your Bar<g ref="char:EOLhyphen"/>row vp and downe vpon the Dung that lyeth ſpread abroad in your Cloſe, and your Barrow will worke the ſame ſo effectually into the ground, as that it will increaſe the fatneſſe of your ſoyle, and improve your ground very much.</p>
+                  <p>This alſo is to be noted, that you muſt have a looſe cover for your <hi>Manuring-barrow,</hi> made of plancke or board, and fitted ſo to your <hi>Barrow,</hi> that it may ſinke downe to the bottome after the Dung or Soyle; and when halfe the Dung is ſpent that is in your <hi>Barrow,</hi> then the driver or ſome other ſhould ſtand vpon the cover in the middeſt of the <hi>Barrow,</hi> thereby to preſſe downe the Dung that it may worke out of your <hi>Barrow</hi> and into the ground the better.</p>
+                  <p>Further alſo, if you finde that your Dung, or Marle doth worke too faſt out of your <hi>Barrow,</hi> then you may temper ſome wet Litter, or other refuſe-ſtuffe amongſt your Marle, or any other mould that you would vſe in your <hi>Manuring-Barrow,</hi> or otherwiſe you may lay ſome
+<pb n="17" facs="tcp:133098:13"/>
+ſmall twiggs or ſpray-wood in the bottome of the <hi>bar<g ref="char:EOLhyphen"/>row,</hi> and it will keepe any mould from working thorow too faſt: as for dreſſing your ground with Chalke, that may bee done after the old accuſtomed manner, onely this I would adviſe thoſe that have not obſerved ſo much, that after their Chalke is ſpread abroad, they ſhould let it ſo lye vpon the ſuperficies of their ground as long as they can, for the longer that it lyes ſo before it be plowed in, the better it is for your ground, for in<g ref="char:EOLhyphen"/>deed it ſhould lye a whole Winter vpon your ground after it is ſpread abroad, before it be plowed in, that ſo the froſt may nip &amp; breake all the great clods of chalke.</p>
+                  <p>As for Lyming of ground, that may bee done at any time of the yeare, becauſe a little wet ſlakes &amp; diſſolves the Lime at any time, but ſo ſoone as ever the Lime or Chalke is diſſolved and broken, then it behooves the Husbandman to plow it into the ground, and to ma<g ref="char:EOLhyphen"/>nure it well with his <hi>Manuring-barrow</hi> before dry wea<g ref="char:EOLhyphen"/>ther come, leſt the Wind ſhould drive away the duſtie pure matter that indeed is the Spirit &amp; life of the ſame.</p>
+               </div>
+               <div n="10" type="chapter">
+                  <head>CHAP. X. <hi>The ſeverall benefits ariſing through the vſe of the Manuring Barrow.</hi>
+                  </head>
+                  <p>FIrſt of all, by the vſe of this <hi>Invention,</hi> you may yearely very much Improve any kind of ground, either Paſture, Arrable, or Meadow ground, with a little ſoyle, dung, or other fat mould.</p>
+                  <p>Secondly, hereby you may kill, and deſtroy Moſſe,
+<pb n="18" facs="tcp:133098:14"/>
+Brakes, Heath, or any ſhrubs whatſoever that doth pe<g ref="char:EOLhyphen"/>ſture your ground, &amp; hinder your graſſe from growing.</p>
+                  <p>Thirdly, you may make any Barren ground, that ne<g ref="char:EOLhyphen"/>ver yeilded any profit, to become good arrable ground by manuring well the ſame with ſuch mellow Earth as is to be got neere unto the ſame.</p>
+                  <p>Fourthly, hereby ſhall your Dung, Marle, or other ſoyle bee ſo incorporated, and ingrafted into your ground, ſo as that the Wind may neither drive away, nor the exceſſive Shewers waſh away the fatneſſe and puritie of the ſame.</p>
+                  <p>Fifthly, in manuring your Arrable ground with this <hi>Barrow,</hi> you will ſo worke and chafe the ſame, that if your Seed be cleane, it will bring forth your Corne ve<g ref="char:EOLhyphen"/>ry cleane, and free from weedes. For your Dung being wrought out and chafed by your <hi>Barrow</hi> upon the ground, it will not be ſo apt to bring forth Weeds, and the ground it ſelfe alſo will be ſo mortified, that it will not bee ſo apt to beare weedes, as when it is manured otherwayes.</p>
+                  <p>Sixtly, the <hi>Manuring-Barrow</hi> will levell your ground and make all even, diſpeircing abroad ſuch heapes of Earth as the <hi>Moles</hi> caſt up, and levell the little Mole<g ref="char:EOLhyphen"/>hils that through long continuance are growne hard and rough.</p>
+                  <p>Seventhly, alſo by the <hi>Manuring-barrow,</hi> you may ſpread ſuch heapes of Horſe-dung or other, that would hinder your Graſſe from growing by lying on heapes, and helpe the growing thereof by being diſpierced a<g ref="char:EOLhyphen"/>broad, for ever if you can intend it you ſhould a little manure your Paſture ground with this <hi>Barrow,</hi> ſo ſoone
+<pb n="19" facs="tcp:133098:14"/>
+as it is eaten bare if you deſire to Improve the ſame, and alſo if the weather be dry, you ſhould a little water the ſame ever after when you have manured it.</p>
+                  <p>Eightly, by Manuring your looſe or dry ground with this <hi>Barrow,</hi> you may make it to become firme and good ground that will reteyne any moiſture, that ſhall fall upon it, the longer, thereby to fatten, and mollifie the ſame; For ground that conſiſteth of a light and looſe mould, doth let the moyſture that falleth thereon ſo ſoone paſſe through the ſame, that it very little profiteth. If any one ſhould thinke it will harden ground, and make it too ſtiffe, there be wayes enough to mollifie and moyſten the ſame againe; as hereafter ſhall be declared. Otherwiſe they may forbeare Manuring ground of ſuch a nature with this <hi>Invention,</hi> and uſe o<g ref="char:EOLhyphen"/>ther wayes and Inventions that they ſhall finde to bee more commodious for the ſame.</p>
+               </div>
+               <div n="11" type="chapter">
+                  <head>CHAP. XI. <hi>This ſheweth the vſe of the Manuring-ſtone, Corroding harrow, or Corroding-rakes.</hi>
+                  </head>
+                  <p>THeſe ſeverall Inventions are chiefly to kill and deſtroy Heath, Brakes, Furzes, Moſſe, or any other ſhrubs, that keepeth the Ground barren, or maketh it unuſefull, firſt, the ſaid ground is to bee cleered and then Plowed up, and either in dry or wet weather when your leiſure beſt ſerves, theſe <hi>Inventions</hi> are to be drawne by your Cattle, up &amp; downe upon the ſame, but in wet weather, &amp; when the ground is moyſt,
+<pb n="20" facs="tcp:133098:15"/>
+is the beſt time, and your labour will be moſt effectuall vpon the ſame. The <hi>Manuring-ſtone</hi> is to be drawne alone if it bee a great one, if they are little ones, they may bee coupled together; <hi>Corroding-harrowes</hi> are not to bee made too bigg<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>, becauſe in places where the groun<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> is hollow, riſing, or falling, they cannot then in ſo pliable <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> manner glide vpon the earth, and chafe the ſame ſo eff<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ctually, as when they are leſſe and coupled together, th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>Corroding rakes,</hi> are to be vſed by ſuch as have but few, or li<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e Cattle, and in the ſame manner, and for the <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ame purp<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ſ<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s as is the <hi>Corroding harrow,</hi> or <hi>Manuring ſtone,</hi> and th<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>y are to be coupled together at the head ends, and the tayle ends of each are to be faſte<g ref="char:EOLhyphen"/>ned in the tugges of the Horſes-coller, and ſo one horſe will draw two of them at once.</p>
+               </div>
+               <div n="12" type="chapter">
+                  <head>CHAP. XII. <hi>It ſheweth the vſe of the Horſe Rakes.</hi>
+                  </head>
+                  <p>THeſe Rakes are for the ſame ends and purpoſes as thoſe that Gardeners vſe, although they are to bee much more large, and ſtronger, and alſo they are to cleanſe any Heathie, Broomie, or other Bra<g ref="char:EOLhyphen"/>kie ground after the ſame hath beene broken vp by the <hi>Plow</hi> of all Rootes, and other refuſe-ſtuffe, that might hinder the vſe and Improving of the ſaid Ground, be<g ref="char:EOLhyphen"/>fore the ſame bee dreſſed with the <hi>Manuring barrow,</hi> and alſo they will ſerve to dreſſe, or prepare any Arra<g ref="char:EOLhyphen"/>ble ground after the ſame is Plowed for the <hi>Seed-barrow</hi> or <hi>Manuring-Waggen.</hi>
+                  </p>
+               </div>
+               <div n="13" type="chapter">
+                  <pb n="21" facs="tcp:133098:15"/>
+                  <head>CHAP. XIII. <hi>Inſtructions teaching how to finde out the Nature of Ground.</hi>
+                  </head>
+                  <p>SEverall grounds are of ſeverall Natures, for ſome ground is more improoved by Chalke, then it is eyther by Marle or Dung, againe other grounds are improved by Marle or Dung, and not by Chalke, or Lime, ſome are Improved moſt by one kinde of ma<g ref="char:EOLhyphen"/>nure, ſome by other kindes of manure, ſome Grounds doe require three or foure ſeverall kindes of manure, as Dung, Marle, and Chalke, or Lime to improove the ſame; Therefore it behooveth every Husbandman to know the nature of his Ground, before hee be at any great coſt, or charge to manure and Improve the ſame, becauſe I have obſerved how divers Husbandmen have halfe vndone themſelves, and diſcouraged others, in dreſſing and manuring their Ground with ſuch kind of manure as hath not been agreeable vnto the nature of the ſame. Therefore in my judgement the wiſeſt courſe for one that knoweth not the nature of his ground, nor the ſeverall effects of ſeverall Manures, is to dreſſe ſome little ſeverall plots of ground with ſeverall kindes of manure, and when hee ſeeth what kind of manure doth beſt agree with the nature of his ground, and that doth moſt improove it, then to dreſſe and manure his ground with the ſame. The like tryall may Husband<g ref="char:EOLhyphen"/>men make in Sowing of their ground, for ſome kind of graine doth thrive, and proſper better upon one kinde of Ground, then it doth upon another, and likewiſe
+<pb n="22" facs="tcp:133098:16"/>
+ſome kinde of manure doth cauſe one kinde of graine to thrive better then another, and manure that cauſeth one kind of graine to fructifie, will not cauſe another; there<g ref="char:EOLhyphen"/>fore when the Husbandman hath made his triall, and hath found what manure doth beſt agree with each ſeve<g ref="char:EOLhyphen"/>rall kind of graine, he may trim his Seed barrow, <hi>Manu<g ref="char:EOLhyphen"/>ring Wagg<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>n,</hi> or <hi>Manuring Plow</hi> accordingly, and ſo or<g ref="char:EOLhyphen"/>der his ſeaſon, in committing his graine unto ſuch kinds of ſoile, as doth moſt aboundantly yeeld increaſe of the ſame, and that hee may have no cauſe to complaine, but reape ſuch plentifull croppes, as may benefit him<g ref="char:EOLhyphen"/>ſelfe, and all others.</p>
+               </div>
+               <div n="14" type="chapter">
+                  <head>CHAP. XIIII. <hi>How to produce good ſtore of Dung to manure your ground withall.</hi>
+                  </head>
+                  <p>THere is nothing generally better to manure a<g ref="char:EOLhyphen"/>ny manner of ground then Dung, whether it bee Arrable, Paſture, or Meddow ground; and therefore every Husbandman ſhould endeavour to make the greateſt quantitie thereof he can, becauſe the more Dung any one hath, the more hee may improove his ground, or the more ground he may manure. It is the cuſtome of many Husbandmen to lay their refuſe ſtraw, or other ſuch like ſtuffe in lanes, and other high wayes, there to rot it and make it into Dung, but this cuſtome is neither good for the travailer, nor yet for the Husbandman, for before it is rotten, or rather bea<g ref="char:EOLhyphen"/>ten
+<pb n="23" facs="tcp:133098:16"/>
+to dirt, there it lieth and cumbreth the way, and cloyeth ſuch Cattle, as travell upon the ſame, and in the end being beaten to duſt, or dirt, either the beſt and pu<g ref="char:EOLhyphen"/>reſt matter thereof in wet weather is daſht away, and in drie weather is driven away with the wind, the feet of ſuch Cattle raiſing up the duſt as they travell through the ſame, whereby the husbandman looſeth both of the quantity, and of the quality of the ſame. The like incon<g ref="char:EOLhyphen"/>veniences doth enſue when the Husbandman layeth his Dung up in great hills and high heapes. For the winde and Sun doth ever quickly dry the out ſide of the ſame, and ſo doth exhauſt and drive away much of the fat<g ref="char:EOLhyphen"/>neſſe, or puritie of it, neither can it rotte, or grow mellow well, it lying ſo in heapes and hills; and there<g ref="char:EOLhyphen"/>fore in ſo laying it, hee rather doth diminiſh, then in<g ref="char:EOLhyphen"/>creaſe either of the quantitie, or of the goodneſſe of the qualitie of the ſame.</p>
+                  <p>Now therefore, the beſt way both to increaſe the quantitie, and reteyne the goodneſſe of the qualitie of your Dung, is to make large and deepe pitts neere unto high-wayes, and in low grounds where into muddy water may runne, and alſo to make the like pits neere unto Kitchins, Stables, Gate-roomes or co<g ref="char:cmbAbbrStroke">̄</g>mon ſhores, whereinto the puddle water may runne from ſuch pla<g ref="char:EOLhyphen"/>ces; the Husbandman need but once to make theſe pits, and they will ſerve for ever, this order being obſer<g ref="char:EOLhyphen"/>ved, the high-wayes may be preſerved better, and be<g ref="char:EOLhyphen"/>come more paſſable in the winter ſeaſon, and the Huſ<g ref="char:EOLhyphen"/>bandman enriched hereby.</p>
+                  <p>Now into theſe pitts ſhould the Husband<g ref="char:EOLhyphen"/>man caſt all his refuſe ſtraw, and all other ſuch refuſe
+<pb n="24" facs="tcp:133098:17"/>
+ſtuffe that he hath, or can procure to make Dung there<g ref="char:EOLhyphen"/>of, and ever as hee layeth in the ſame, let him ſhatter ſome of the beſt and fatteſt earth, that hee can get a<g ref="char:EOLhyphen"/>mongſt the ſame, and when he hath put in all his refuſe ſtuffe into his pits, let him cover them over with ſpray Wood, Loggs, or any other thing that may keepe the Sunne and the winde from exhauſting up, or driving away any of the ſame, and ſo let them remaine untill ſuch time as it is throughly rotten.</p>
+               </div>
+               <div n="15" type="chapter">
+                  <head>CHAP. XV. <hi>How to manure Ground without Dung, or Soyle.</hi>
+                  </head>
+                  <p>IF you have neither Soile nor Dung to manure your ground, then you ſhould make choyſe of the beſt and richeſt Earth that lyeth neere unto you, and provide thereof ſufficient, to trimme your <hi>Manuring-Barrow</hi> therewith, when you would manure your ground, for although you have not Dung ſufficient to manute all your ground ſo plentifully as you deſire, vet may you enrich your Barren ground, and in ſhort time make it equall in fertilitie and goodneſſe vnto the beſt ground you have, by well Manuring of the ſame every yeare with ſuch Earth as is to b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e got in your beſt ground, if you cannot come by Marle, Chalke, or any other kinde of manure to dreſſe and inrich the ſame. Alſo, there are <hi>Manuring ſtones,</hi> and <hi>Corroding harrowes</hi> and <hi>Rakes,</hi> that in wet weather being but drawne up and downe your Cloſe will manure your ground, and
+<pb n="25" facs="tcp:133098:17"/>
+fatten the ſame in ſome ſort. Thirdly, your <hi>Seed bar<g ref="char:EOLhyphen"/>row</hi> being trimmed onely with ſome fatte earth, and drawne vp and downe your Field will manure it; but theſe laſt are to be practiſed only vpon arrable ground, becauſe the ground ſhould alwayes bee plowed vp, when you would manure the ſame, eyther with the <hi>Seed barrow, Corroding harrowes,</hi> or <hi>Manuring-ſtone,</hi> or <hi>Corroding rakes,</hi> if you have ſtrength enough to draw theſe Inventions thereon.</p>
+                  <p>Now becauſe ſome may not conceive this point of Husbandry to be rationall, I will here prove it by one eaſie, and familiar Example that is common to all: Of all ſubſtances <hi>Stone</hi> and <hi>Iron</hi> are of the moſt obdurate natures that are, and are the moſt vnlikely to yeeld ſoyle, yet who is it that can deny, that if one powre Water vpon a Stone and whet but a knife or ſome o<g ref="char:EOLhyphen"/>ther <hi>Iron</hi> thereon, it begets much ſoyle; and if ſo ſmall a matter as this will beget a little ſoyle vpon thoſe two obdurate and barraine natures, how much may b<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> pro<g ref="char:EOLhyphen"/>duced by this point of <hi>Husbandry</hi> of ſuch ſubſtances, that are of ſoft and ſoylie natures: I could have pro<g ref="char:EOLhyphen"/>duced the like familiar Examples to prove divers o<g ref="char:EOLhyphen"/>ther points of <hi>Husbandry</hi> herein declared, but that I ſhould have made my diſcourſe too tedious, neither doe I thinke that there is any of ſo ſhallow a capacitie, that may not conceive them to bee Rationall, becauſe in Na<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ure they differ not from ſuch points of Husban<g ref="char:EOLhyphen"/>dry that are daily practiſed, and have beene ſo often ap<g ref="char:EOLhyphen"/>proved of in every Countrey.</p>
+               </div>
+               <div n="16" type="chapter">
+                  <pb n="26" facs="tcp:133098:18"/>
+                  <head>CHAP. XVI. <hi>How to kill and deſtroy Furzes, Heath, Brakes, or any other Shrubs, and to Improve the ſaid Ground.</hi>
+                  </head>
+                  <p>FIrſt, you muſt cut up all the Furzes, Heath, or any other Shrubs, neere unto the rootes, and then plow up the ſaid ground, with a good ſtrong Plow, and then rake together the ſaid rootes with a Ra<g ref="char:EOLhyphen"/>king-harrow, or Horſe-rake, or with Garden-rakes, made for the ſame purpoſe, and cleanſe the ground of them as neere as you can: Afterward, firſt manure the ſaid ground well with a <hi>Corroding-harrow, Corroding-rakes,</hi> or <hi>Manuring ſtones,</hi> untill the colour of the Earth begin to alter, and then trim your <hi>Manuring-barrow</hi> with Marle, Dung, or any kinde of the richeſt mould you can get, and Manure the ſaid ground as well as time and meanes will affoord, and then Sow the ſame with ſuch graine, as is of leaſt eſteeme; as firſt, with Buck<g ref="char:EOLhyphen"/>wheate, Tares, Oates, or Peaſon. Alſo when you ſow the ſame, you ſhould make uſe of a large <hi>Seed barrow,</hi> or <hi>Manuring-Waggen,</hi> that hath no teeth, and that hath large Manuring-funnels, but chiefly of a <hi>Manuring-Plow,</hi> that ſo you may apply good ſtore of manure un<g ref="char:EOLhyphen"/>to your Seed: Thus every yeare Manuring of it well, and ſowing of the ſame in this manner, you may gather good crops of Corne and make the ſame become rich Arrable ground in ſhort time.</p>
+                  <p>But this note alwayes, that when you would Manure or Improove any ground effectually with any of theſe <hi>Inventions;</hi> you muſt throughly moyſten the ſame in the Morning when you begin if the ground be dry.</p>
+               </div>
+               <div n="17" type="chapter">
+                  <pb n="27" facs="tcp:133098:18"/>
+                  <head>CHAP. XVII. <hi>Concerning the making of Barren ground that is not worth Twelue-pence an Acre, to become worth Forty-ſhillings an Acre.</hi>
+                  </head>
+                  <p>FOraſmuch, as it is in a manner impoſſible to Im<g ref="char:EOLhyphen"/>prove any Arrable ground or other without Cat<g ref="char:EOLhyphen"/>tle; Therefore ſuch as doe deſire to Improve their <hi>Barren</hi> ground, where there is none but barren ground, muſt plant and provide for the ſuſtentation and ſupportation of Cattle; For according to the di<g ref="char:EOLhyphen"/>vine Proverbe, <hi>Where no Oxen are the Crib is emptie;</hi> and much Increaſe commeth through the ſtrength of the Oxe. So where there is not ſuſtenance for Cattle, there cannot Cattle ſubſiſt, and where no Cattle are, there the ground muſt needs remaine Barren; There<g ref="char:EOLhyphen"/>fore, in ſuch places of this Kingdome where there is much <hi>Barren</hi> ground, there ſuch as would recover ſuch Barren, Heathie, Brakie or any other ſterrill ground, and make it Fertile, muſt thinke of making ſome of the ſame barren ground to become Paſture, and Meddow-ground, that ſo they may have ſuſtentation for their Cattle both Winter and Summer. For the effecting whereof, the <hi>Author</hi> will diſcover vnto any reaſo<g ref="char:EOLhyphen"/>nable perſon, as ſhall bee deſirous to learne, how both eaſily and ſpeedily they may make ſome <hi>Barren</hi> ground that is not worth Twelue-pence an Acre, to become
+<pb n="28" facs="tcp:133098:19"/>
+good Meddow-ground, that ſhall bee worth Thirty or forty ſhillings the Acre yearely, the which in this <hi>Trea<g ref="char:EOLhyphen"/>tiſe</hi> hee hath omitted to diſcover; becauſe hee deſi<g ref="char:EOLhyphen"/>reth rather to give Teſtimony thereof in deeds then words: And alſo, for ſome certaine other Reaſons beſt knowne unto himſelfe.</p>
+                  <p>Or otherwiſe, hee will helpe thoſe to money for ſuch <hi>Barren</hi> land, (that are not minded to make tryall thereof) or deale any other wayes, as they ſhall pleaſe.</p>
+                  <figure>
+                     <head>VIVAT REX.</head>
+                     <figDesc>royal blazon or coat of arms"</figDesc>
+                  </figure>
+               </div>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="conclusion">
+            <head>The Concluſion of the Author.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">W</seg>HEREAS</hi> his Majeſtie hath beene gra<g ref="char:EOLhyphen"/>ciouſly pleaſed out of his Royall favour, to Graunt, and Confirme divers Powers and Priviledges by his Majeſties Letters Pat<g ref="char:EOLhyphen"/>tents, vnder the Great Seale for the ſaid <hi>Inventions,</hi> and for divers other wayes for the <hi>Manuring</hi>
+               <pb n="29" facs="tcp:133098:19" rendition="simple:additions"/>
+and <hi>Improving</hi> of Ground, that as yet have not been found out, nor practiſed by any. Therefore deſiring, that my ſelfe and all others, that wiſh well vnto the publique Good, may proceed in an Imployment ſo laudable and beneficiall for the whole Kingdome; out of a gratefull minde, I ſhall willingly admit all thoſe freely to vſe any of the ſaid <hi>Inven<g ref="char:EOLhyphen"/>tions,</hi> and to exerciſe any of the ſaid wayes for the Manu<g ref="char:EOLhyphen"/>ring and Improving of Ground, that ſhall helpe eyther mee, my Agents or Aſſignes, vnto any Barren land vpon reaſo<g ref="char:EOLhyphen"/>nable Conditions, or that ſhall bee forward in aſſiſting mee in the accompliſhing and Exerciſing thereof.</p>
+            <p>
+               <hi>In</hi> Fleet-ſtreet <hi>at the Signe of the three</hi> Flower Deluces, <hi>over againſt St.</hi> Brides<g ref="char:punc">▪</g>
+               <hi>lane and, there may any one ſee divers of the ſaid</hi> Inventions, <hi>or be fur<g ref="char:EOLhyphen"/>ther informed if they pleaſe.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
